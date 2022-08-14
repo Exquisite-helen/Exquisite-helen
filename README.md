@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Exquisite-helen
-- 👀 I’m interested in Software development
+- 👀 I’m interested in any Software engineering mechanism
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me okwarahelen23@gmail.com
 
 <!---
